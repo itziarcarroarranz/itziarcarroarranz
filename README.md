@@ -23,5 +23,3 @@ Data Science Student @ Universidad Complutense de Madrid 🎓
 ---
 - 💼 **LinkedIn:** : https://www.linkedin.com/in/itziar-carro-arranz/
 - 📧 **Email:** [itziar.caar@gmail.com](mailto:itziar.caar@gmail.com)
-
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario) *(sustituye con tu enlace)*
